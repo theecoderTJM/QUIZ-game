@@ -1,0 +1,16 @@
+{
+    "geography": [
+        {"question": "What is the capital of France?", "answer": "Paris"},
+        {"question": "Which river runs through Egypt?", "answer": "Nile"}
+    ],
+    "flags": [
+        {"question": "Which country's flag is red with a white cross?", "answer": "Switzerland"},
+        {"question": "Which country's flag has a maple leaf on it?", "answer": "Canada"}
+    ],
+    "movies": [
+        {"question": "Who directed the movie 'Inception'?", "answer": "Christopher Nolan"},
+        {"question": "What is the highest-grossing film of all time?", "answer": "Avatar"}
+    ]
+
+}
+    
